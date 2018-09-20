@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head >h2 {
+   
+   color: azure;
+   background-color: darkgrey;
+   opacity: 0.6;
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom:30px;
+    
+    }
+
+.value > h2 {
+    background-color: wheat;
+    color: black;
+    margin-top: 0px;
+    padding-left: 50px;
+    padding-right: 55px;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    float: left;
+    overflow: hidden;
+    
+   
+    
+    }
+.value > p {
+    background-color: whitesmoke;
+    color:black;
+    margin-top:2px;
+    padding-left: 58px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 79px;
+    float:left;
+    overflow: hidden;
+    
+    
+     
+    }
+
+
+
+.footer{
+   background-color: darkgrey;
+   opacity: 0.6;
+   text-align: center;
+   color: white;
+   margin-top: -31px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   overflow: hidden;
+     }
+
+
+
+
+
